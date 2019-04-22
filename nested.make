@@ -1,2 +1,2 @@
-cmake_minimum_required(VERSION 2.6)
+make_minimum_required(VERSION 2.6)
 	add_executable(	Nested nested.c	)
