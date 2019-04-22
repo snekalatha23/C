@@ -23,5 +23,5 @@ int main()
    {
 	printf("var1 is equal to var2\n");
    }
-   return 0;
+   
 }
